@@ -1,4 +1,4 @@
-# 📦 Xilinx Scatter-Gather DMA Walkthrough
+#  Xilinx Scatter-Gather DMA Walkthrough
 
 🔧 **In-depth walkthrough of Scatter-Gather (SG) mode AXI DMA on Xilinx Zynq, featuring annotated C code and register-level configuration.**
 
@@ -6,7 +6,7 @@ This repository showcases my understanding of SG DMA operation in a Xilinx Zynq 
 
 ---
 
-## 📄 Documentation
+##  Documentation
 
 - **File:** `DOCUMENTATION OF DMA IN SCATTER GATHER MODE PART 2.pdf`  
 - **What it covers:**
@@ -22,7 +22,7 @@ This is a hands-on technical guide—not a copy of Xilinx documentation—intend
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Platform:** Xilinx Zynq (tested with ZedBoard)
 - **Tools:** Vivado, Vitis/SDK
@@ -31,7 +31,7 @@ This is a hands-on technical guide—not a copy of Xilinx documentation—intend
 
 ---
 
-## 📌 Use Case
+##  Use Case
 
 This repo is especially helpful for:
 - FPGA engineers learning DMA architecture
@@ -40,7 +40,7 @@ This repo is especially helpful for:
 
 ---
 
-## 🧠 Motivation
+##  Motivation
 
 I built this documentation to deepen my understanding of low-level data transfer mechanisms in FPGA systems. Rather than just using pre-made IPs, this was my effort to analyze how the code actually works under the hood—every function, structure, and register bit.
 
@@ -48,4 +48,4 @@ This is part of my learning portfolio, as referenced in my resume.
 
 ---
 
-⭐ **If you found this insightful, feel free to star the repo or share it with others working on similar systems!**
+ **If you found this insightful, feel free to star the repo or share it with others working on similar systems!**
